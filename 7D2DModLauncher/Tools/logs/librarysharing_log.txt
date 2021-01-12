@@ -1,0 +1,3 @@
+
+
+[2020-05-05 20:49:10] SharedLibraryLockStatus: own library locked by 0

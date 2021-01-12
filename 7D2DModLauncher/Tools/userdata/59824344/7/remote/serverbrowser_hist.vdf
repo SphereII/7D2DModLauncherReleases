@@ -1,0 +1,34 @@
+"Filters"
+{
+	"favorites"
+	{
+		"1"
+		{
+			"name"		"174.116.218.169:27015"
+			"address"		"174.116.218.169:27015"
+			"LastPlayed"		"1585593280"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+	}
+	"history"
+	{
+		"1"
+		{
+			"name"		"174.116.218.169:27015"
+			"address"		"174.116.218.169:27015"
+			"LastPlayed"		"1585593280"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"2"
+		{
+			"name"		"174.116.218.169:26901"
+			"address"		"174.116.218.169:26901"
+			"LastPlayed"		"1586460050"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+	}
+	"lastupdate"		"1588684301"
+}

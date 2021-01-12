@@ -1,0 +1,306 @@
+
+
+[2019-12-05 10:52:58] Loaded 0 apps from install folder "C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\steamapps\appmanifest_*.acf".
+[2019-12-05 11:36:19] Loaded 0 apps from install folder "c:\7d2d\alpha18\the_fun_pimps\alpha_17.1\steamapps\appmanifest_*.acf".
+[2019-12-05 11:36:19] AppID 251570 state changed : Update Required,
+[2019-12-05 11:36:19] AppID 228980 state changed : Update Required,Shared Only,
+[2019-12-05 11:36:19] AppID 228980 state changed : Update Required,
+[2019-12-05 11:36:19] Dependency added: parent 228980, child 251570, depot 228983
+[2019-12-05 11:36:19] AppID 251570 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2019-12-05 11:36:19] AppID 251570 state changed : Update Required,Update Queued,
+[2019-12-05 11:36:19] AppID 251570 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2019-12-05 11:36:19] AppID 251570 missing beta branch "alpha17.1", falling back to public branch
+[2019-12-05 11:36:19] AppID 251570 state changed : Update Required,Update Queued,Update Running,
+[2019-12-05 11:36:19] AppID 251570 update changed : Running,
+[2019-12-05 11:36:19] AppID 251570 update changed : Running,Reconfiguring,
+[2019-12-05 11:36:19] Download system icon for AppID 251570 to C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\steam\games/01840052e8bc61931392423adcd4912262b2ce54.ico
+[2019-12-05 11:36:20] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (81/3)
+[2019-12-05 11:36:20] Created download interface of type 'SteamCache' (7) to host cache1-ymo-bell.steamcontent.com (cache1-ymo-bell.steamcontent.com)
+[2019-12-05 11:36:20] Created download interface of type 'SteamCache' (7) to host cache2-ymo-bell.steamcontent.com (cache2-ymo-bell.steamcontent.com)
+[2019-12-05 11:36:20] Created download interface of type 'SteamCache' (7) to host cache8-iad1.steamcontent.com (cache8-iad1.steamcontent.com)
+[2019-12-05 11:36:20] Created ipv4-only http client
+[2019-12-05 11:36:20] HTTP (SteamCache,286) - cache2-ymo-bell.steamcontent.com (207.35.48.38:80 / 207.35.48.38:80, host: cache2-ymo-bell.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2019-12-05 11:36:20] HTTP (SteamCache,221) - cache8-iad1.steamcontent.com (162.254.192.38:80 / 162.254.192.38:80, host: cache8-iad1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2019-12-05 11:36:20] HTTP (SteamCache,285) - cache1-ymo-bell.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-ymo-bell.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:36:20] HTTP (SteamCache,285) - cache1-ymo-bell.steamcontent.com (207.35.48.34:80 / 207.35.48.34:80, host: cache1-ymo-bell.steamcontent.com): cache1-ymo-bell.steamcontent.com/depot/251576/manifest/768569130827808063/5 - received 200 (OK) HTTP response
+[2019-12-05 11:36:20] AppID 251570 update changed : Running,
+[2019-12-05 11:36:20] AppID 251570 update changed : Running,Validating,
+[2019-12-05 11:36:20] Validating files (new target,full) ...
+[2019-12-05 11:36:21] File validation finished: 5630 files (13475945246 bytes) total, 5630 files (13475945246 bytes) mismatched (133 msec).
+[2019-12-05 11:36:21] AppID 251570 update changed : Running,
+[2019-12-05 11:36:21] AppID 251570 update changed : Running,Preallocating,
+[2019-12-05 11:36:39] AppID 251570 update changed : Running,
+[2019-12-05 11:36:39] AppID 251570 update started : download 0/4836111520, store 0/0, reuse 0/0, delta 0/0, stage 0/13475945246 
+[2019-12-05 11:36:39] AppID 251570 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2019-12-05 11:36:39] AppID 251570 update changed : Running,Downloading,
+[2019-12-05 11:36:39] AppID 251570 update changed : Running,Downloading,Staging,
+[2019-12-05 11:36:39] Downloading 17134 chunks from depot 251576
+[2019-12-05 11:36:39] HTTP (SteamCache,286) - cache2-ymo-bell.steamcontent.com (207.35.48.38:80 / 207.35.48.38:80, host: cache2-ymo-bell.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:36:39] HTTP (SteamCache,221) - cache8-iad1.steamcontent.com (162.254.192.38:80 / 162.254.192.38:80, host: cache8-iad1.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:36:40] Increasing target number of download connections to 4 (rate was 0.000, now 52.542)
+[2019-12-05 11:36:40] Created download interface of type 'SteamCache' (7) to host cache26-iad1.steamcontent.com (cache26-iad1.steamcontent.com)
+[2019-12-05 11:36:40] HTTP (SteamCache,174) - cache26-iad1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache26-iad1.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:36:52] Increasing target number of download connections to 5 (rate was 52.542, now 145.942)
+[2019-12-05 11:36:52] Created download interface of type 'SteamCache' (7) to host cache16-iad1.steamcontent.com (cache16-iad1.steamcontent.com)
+[2019-12-05 11:36:52] HTTP (SteamCache,139) - cache16-iad1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache16-iad1.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:37:25] Increasing target number of download connections to 6 (rate was 145.942, now 175.760)
+[2019-12-05 11:37:25] Created download interface of type 'SteamCache' (7) to host cache3-iad1.steamcontent.com (cache3-iad1.steamcontent.com)
+[2019-12-05 11:37:25] HTTP (SteamCache,33) - cache3-iad1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache3-iad1.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:37:37] Current download rate: 176.215 Mbps
+[2019-12-05 11:38:38] Current download rate: 179.777 Mbps
+[2019-12-05 11:39:39] Current download rate: 146.538 Mbps
+[2019-12-05 11:40:38] AppID 251570 update changed : Running,
+[2019-12-05 11:40:38] AppID 251570 update changed : Running,Committing,
+[2019-12-05 11:40:38] AppID 251570 file commit : 5675 updated, 0 moved, 0 deleted
+[2019-12-05 11:40:40] Current download rate: 0.000 Mbps
+[2019-12-05 11:40:42] AppID 251570 state changed : Fully Installed,Update Queued,Update Running,
+[2019-12-05 11:40:42] AppID 251570 finished update, mounted depots (BuildID 4454968) : 251576 (768569130827808063),
+[2019-12-05 11:40:42] AppID 251570 update changed : Running,
+[2019-12-05 11:40:42] AppID 251570 update changed : None
+[2019-12-05 11:40:42] AppID 251570 state changed : Fully Installed,Update Queued,
+[2019-12-05 11:40:42] AppID 251570 state changed : Fully Installed,
+[2019-12-05 11:40:42] AppID 251570 scheduler finished : removed from schedule
+[2019-12-05 11:40:42] HTTP (SteamCache,33) - cache3-iad1.steamcontent.com (162.254.192.4:80 / 162.254.192.4:80, host: cache3-iad1.steamcontent.com): Closing connection
+[2019-12-05 11:40:42] HTTP (SteamCache,139) - cache16-iad1.steamcontent.com (162.254.192.42:80 / 162.254.192.42:80, host: cache16-iad1.steamcontent.com): Closing connection
+[2019-12-05 11:40:42] HTTP (SteamCache,174) - cache26-iad1.steamcontent.com (162.254.192.47:80 / 162.254.192.47:80, host: cache26-iad1.steamcontent.com): Closing connection
+[2019-12-05 11:40:42] HTTP (SteamCache,221) - cache8-iad1.steamcontent.com (162.254.192.38:80 / 162.254.192.38:80, host: cache8-iad1.steamcontent.com): Closing connection
+[2019-12-05 11:40:42] HTTP (SteamCache,286) - cache2-ymo-bell.steamcontent.com (207.35.48.38:80 / 207.35.48.38:80, host: cache2-ymo-bell.steamcontent.com): Closing connection
+[2019-12-05 11:40:42] HTTP (SteamCache,285) - cache1-ymo-bell.steamcontent.com (207.35.48.34:80 / 207.35.48.34:80, host: cache1-ymo-bell.steamcontent.com): Closing connection
+
+
+[2019-12-05 11:55:06] Loaded 0 apps from install folder "C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\steamapps\appmanifest_*.acf".
+[2019-12-05 11:55:23] Loaded 0 apps from install folder "c:\7d2d\alpha18\the_fun_pimps\alpha_16.4\steamapps\appmanifest_*.acf".
+[2019-12-05 11:55:24] AppID 251570 state changed : Update Required,
+[2019-12-05 11:55:24] AppID 228980 state changed : Update Required,Shared Only,
+[2019-12-05 11:55:24] AppID 228980 state changed : Update Required,
+[2019-12-05 11:55:24] Dependency added: parent 228980, child 251570, depot 228983
+[2019-12-05 11:55:24] AppID 251570 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2019-12-05 11:55:24] AppID 251570 state changed : Update Required,Update Queued,
+[2019-12-05 11:55:24] AppID 251570 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2019-12-05 11:55:24] AppID 251570 state changed : Update Required,Update Queued,Update Running,
+[2019-12-05 11:55:24] AppID 251570 update changed : Running,
+[2019-12-05 11:55:24] AppID 251570 update changed : Running,Reconfiguring,
+[2019-12-05 11:55:24] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (81/3)
+[2019-12-05 11:55:24] Created download interface of type 'SteamCache' (7) to host cache1-ymo-bell.steamcontent.com (cache1-ymo-bell.steamcontent.com)
+[2019-12-05 11:55:24] Created download interface of type 'SteamCache' (7) to host cache2-ymo-bell.steamcontent.com (cache2-ymo-bell.steamcontent.com)
+[2019-12-05 11:55:24] Created download interface of type 'SteamCache' (7) to host cache25-iad1.steamcontent.com (cache25-iad1.steamcontent.com)
+[2019-12-05 11:55:24] HTTP (SteamCache,285) - cache1-ymo-bell.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-ymo-bell.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:55:24] Created ipv4-only http client
+[2019-12-05 11:55:24] HTTP (SteamCache,286) - cache2-ymo-bell.steamcontent.com (207.35.48.38:80 / 207.35.48.38:80, host: cache2-ymo-bell.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2019-12-05 11:55:24] HTTP (SteamCache,173) - cache25-iad1.steamcontent.com (162.254.192.15:80 / 162.254.192.15:80, host: cache25-iad1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2019-12-05 11:55:24] HTTP (SteamCache,285) - cache1-ymo-bell.steamcontent.com (207.35.48.34:80 / 207.35.48.34:80, host: cache1-ymo-bell.steamcontent.com): cache1-ymo-bell.steamcontent.com/depot/251576/manifest/7468628160220339213/5 - received 200 (OK) HTTP response
+[2019-12-05 11:55:25] AppID 251570 update changed : Running,
+[2019-12-05 11:55:25] AppID 251570 update changed : Running,Validating,
+[2019-12-05 11:55:25] Validating files (new target,full) ...
+[2019-12-05 11:55:25] File validation finished: 1590 files (3904234752 bytes) total, 1590 files (3904234752 bytes) mismatched (42 msec).
+[2019-12-05 11:55:25] AppID 251570 update changed : Running,
+[2019-12-05 11:55:25] AppID 251570 update changed : Running,Preallocating,
+[2019-12-05 11:55:36] AppID 251570 update changed : Running,
+[2019-12-05 11:55:36] AppID 251570 update started : download 0/1510538288, store 0/0, reuse 0/0, delta 0/0, stage 0/3904234752 
+[2019-12-05 11:55:36] AppID 251570 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2019-12-05 11:55:36] AppID 251570 update changed : Running,Downloading,
+[2019-12-05 11:55:36] AppID 251570 update changed : Running,Downloading,Staging,
+[2019-12-05 11:55:36] Downloading 4825 chunks from depot 251576
+[2019-12-05 11:55:36] HTTP (SteamCache,286) - cache2-ymo-bell.steamcontent.com (207.35.48.38:80 / 207.35.48.38:80, host: cache2-ymo-bell.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:55:36] HTTP (SteamCache,173) - cache25-iad1.steamcontent.com (162.254.192.15:80 / 162.254.192.15:80, host: cache25-iad1.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:55:36] Increasing target number of download connections to 4 (rate was 0.000, now 6.125)
+[2019-12-05 11:55:36] Created download interface of type 'SteamCache' (7) to host cache9-iad1.steamcontent.com (cache9-iad1.steamcontent.com)
+[2019-12-05 11:55:36] HTTP (SteamCache,222) - cache9-iad1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache9-iad1.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:55:49] Increasing target number of download connections to 5 (rate was 6.125, now 104.738)
+[2019-12-05 11:55:49] Created download interface of type 'SteamCache' (7) to host cache6-iad1.steamcontent.com (cache6-iad1.steamcontent.com)
+[2019-12-05 11:55:49] HTTP (SteamCache,36) - cache6-iad1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache6-iad1.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:56:01] Increasing target number of download connections to 6 (rate was 104.738, now 129.900)
+[2019-12-05 11:56:01] Created download interface of type 'SteamCache' (7) to host cache13-iad1.steamcontent.com (cache13-iad1.steamcontent.com)
+[2019-12-05 11:56:01] HTTP (SteamCache,226) - cache13-iad1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache13-iad1.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:56:13] Increasing target number of download connections to 7 (rate was 129.900, now 169.067)
+[2019-12-05 11:56:13] Created download interface of type 'SteamCache' (7) to host cache18-iad1.steamcontent.com (cache18-iad1.steamcontent.com)
+[2019-12-05 11:56:13] HTTP (SteamCache,166) - cache18-iad1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache18-iad1.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-05 11:56:37] Current download rate: 150.884 Mbps
+[2019-12-05 11:56:59] AppID 251570 update changed : Running,
+[2019-12-05 11:56:59] AppID 251570 update changed : Running,Committing,
+[2019-12-05 11:56:59] AppID 251570 file commit : 1649 updated, 0 moved, 0 deleted
+[2019-12-05 11:57:00] AppID 251570 state changed : Fully Installed,Update Queued,Update Running,
+[2019-12-05 11:57:00] AppID 251570 finished update, mounted depots (BuildID 2222519) : 251576 (7468628160220339213),
+[2019-12-05 11:57:00] AppID 251570 update changed : Running,
+[2019-12-05 11:57:00] AppID 251570 update changed : None
+[2019-12-05 11:57:00] AppID 251570 state changed : Fully Installed,Update Queued,
+[2019-12-05 11:57:00] AppID 251570 state changed : Fully Installed,
+[2019-12-05 11:57:00] AppID 251570 scheduler finished : removed from schedule
+[2019-12-05 11:57:00] HTTP (SteamCache,166) - cache18-iad1.steamcontent.com (162.254.192.43:80 / 162.254.192.43:80, host: cache18-iad1.steamcontent.com): Closing connection
+[2019-12-05 11:57:00] HTTP (SteamCache,226) - cache13-iad1.steamcontent.com (162.254.192.9:80 / 162.254.192.9:80, host: cache13-iad1.steamcontent.com): Closing connection
+[2019-12-05 11:57:00] HTTP (SteamCache,36) - cache6-iad1.steamcontent.com (162.254.192.37:80 / 162.254.192.37:80, host: cache6-iad1.steamcontent.com): Closing connection
+[2019-12-05 11:57:00] HTTP (SteamCache,222) - cache9-iad1.steamcontent.com (162.254.192.7:80 / 162.254.192.7:80, host: cache9-iad1.steamcontent.com): Closing connection
+[2019-12-05 11:57:00] HTTP (SteamCache,173) - cache25-iad1.steamcontent.com (162.254.192.15:80 / 162.254.192.15:80, host: cache25-iad1.steamcontent.com): Closing connection
+[2019-12-05 11:57:00] HTTP (SteamCache,286) - cache2-ymo-bell.steamcontent.com (207.35.48.38:80 / 207.35.48.38:80, host: cache2-ymo-bell.steamcontent.com): Closing connection
+[2019-12-05 11:57:00] HTTP (SteamCache,285) - cache1-ymo-bell.steamcontent.com (207.35.48.34:80 / 207.35.48.34:80, host: cache1-ymo-bell.steamcontent.com): Closing connection
+
+
+[2019-12-06 06:56:06] Loaded 0 apps from install folder "C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\steamapps\appmanifest_*.acf".
+[2019-12-06 06:56:09] Loaded 0 apps from install folder "c:\7d2d\alpha18\the_fun_pimps\alpha_16.4\steamapps\appmanifest_*.acf".
+[2019-12-06 06:56:10] AppID 251570 state changed : Update Required,
+[2019-12-06 06:56:10] AppID 228980 state changed : Update Required,Shared Only,
+[2019-12-06 06:56:10] AppID 228980 state changed : Update Required,
+[2019-12-06 06:56:10] Dependency added: parent 228980, child 251570, depot 228983
+[2019-12-06 06:56:10] AppID 251570 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2019-12-06 06:56:10] AppID 251570 state changed : Update Required,Update Queued,
+[2019-12-06 06:56:10] AppID 251570 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2019-12-06 06:56:10] AppID 251570 state changed : Update Required,Update Queued,Update Running,
+[2019-12-06 06:56:10] AppID 251570 update changed : Running,
+[2019-12-06 06:56:10] AppID 251570 update changed : Running,Reconfiguring,
+[2019-12-06 06:56:10] AppID 251570 update changed : Running,
+[2019-12-06 06:56:10] AppID 251570 update changed : Running,Validating,
+[2019-12-06 06:56:10] Validating files (new target,full) ...
+[2019-12-06 06:56:10] File validation finished: 1590 files (3904234752 bytes) total, 1590 files (3904234752 bytes) mismatched (27 msec).
+[2019-12-06 06:56:10] AppID 251570 update changed : Running,
+[2019-12-06 06:56:10] AppID 251570 update changed : Running,Preallocating,
+[2019-12-06 06:56:22] AppID 251570 update changed : Running,
+[2019-12-06 06:56:22] AppID 251570 update started : download 0/1510538288, store 0/0, reuse 0/0, delta 0/0, stage 0/3904234752 
+[2019-12-06 06:56:22] AppID 251570 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2019-12-06 06:56:22] AppID 251570 update changed : Running,Downloading,
+[2019-12-06 06:56:22] AppID 251570 update changed : Running,Downloading,Staging,
+[2019-12-06 06:56:22] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (81/3)
+[2019-12-06 06:56:22] Created download interface of type 'SteamCache' (7) to host cache2-ymo-bell.steamcontent.com (cache2-ymo-bell.steamcontent.com)
+[2019-12-06 06:56:22] Created download interface of type 'SteamCache' (7) to host cache1-ymo-bell.steamcontent.com (cache1-ymo-bell.steamcontent.com)
+[2019-12-06 06:56:22] Created download interface of type 'SteamCache' (7) to host cache3-iad1.steamcontent.com (cache3-iad1.steamcontent.com)
+[2019-12-06 06:56:22] Downloading 4825 chunks from depot 251576
+[2019-12-06 06:56:22] HTTP (SteamCache,286) - cache2-ymo-bell.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache2-ymo-bell.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-06 06:56:22] Created ipv4-only http client
+[2019-12-06 06:56:22] HTTP (SteamCache,285) - cache1-ymo-bell.steamcontent.com (207.35.48.34:80 / 207.35.48.34:80, host: cache1-ymo-bell.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2019-12-06 06:56:22] HTTP (SteamCache,285) - cache1-ymo-bell.steamcontent.com (207.35.48.34:80 / 207.35.48.34:80, host: cache1-ymo-bell.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-06 06:56:22] HTTP (SteamCache,33) - cache3-iad1.steamcontent.com (162.254.192.4:80 / 162.254.192.4:80, host: cache3-iad1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2019-12-06 06:56:22] HTTP (SteamCache,33) - cache3-iad1.steamcontent.com (162.254.192.4:80 / 162.254.192.4:80, host: cache3-iad1.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-06 06:56:34] Increasing target number of download connections to 4 (rate was 0.000, now 130.465)
+[2019-12-06 06:56:34] Created download interface of type 'SteamCache' (7) to host cache9-iad1.steamcontent.com (cache9-iad1.steamcontent.com)
+[2019-12-06 06:56:34] HTTP (SteamCache,222) - cache9-iad1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache9-iad1.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-06 06:56:46] Increasing target number of download connections to 5 (rate was 130.465, now 160.628)
+[2019-12-06 06:56:46] Created download interface of type 'SteamCache' (7) to host cache8-iad1.steamcontent.com (cache8-iad1.steamcontent.com)
+[2019-12-06 06:56:46] HTTP (SteamCache,221) - cache8-iad1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache8-iad1.steamcontent.com): AuthenticateDepotID (251576) - Success!
+[2019-12-06 06:57:35] Current download rate: 132.724 Mbps
+[2019-12-06 06:57:44] AppID 251570 update changed : Running,
+[2019-12-06 06:57:44] AppID 251570 update changed : Running,Committing,
+[2019-12-06 06:57:44] AppID 251570 file commit : 1649 updated, 0 moved, 0 deleted
+[2019-12-06 06:57:45] AppID 251570 state changed : Fully Installed,Update Queued,Update Running,
+[2019-12-06 06:57:45] AppID 251570 finished update, mounted depots (BuildID 2222519) : 251576 (7468628160220339213),
+[2019-12-06 06:57:45] AppID 251570 update changed : Running,
+[2019-12-06 06:57:45] AppID 251570 update changed : None
+[2019-12-06 06:57:45] AppID 251570 state changed : Fully Installed,Update Queued,
+[2019-12-06 06:57:45] AppID 251570 state changed : Fully Installed,
+[2019-12-06 06:57:45] AppID 251570 scheduler finished : removed from schedule
+[2019-12-06 06:57:45] HTTP (SteamCache,221) - cache8-iad1.steamcontent.com (162.254.192.38:80 / 162.254.192.38:80, host: cache8-iad1.steamcontent.com): Closing connection
+[2019-12-06 06:57:45] HTTP (SteamCache,222) - cache9-iad1.steamcontent.com (162.254.192.7:80 / 162.254.192.7:80, host: cache9-iad1.steamcontent.com): Closing connection
+[2019-12-06 06:57:45] HTTP (SteamCache,33) - cache3-iad1.steamcontent.com (162.254.192.4:80 / 162.254.192.4:80, host: cache3-iad1.steamcontent.com): Closing connection
+[2019-12-06 06:57:45] HTTP (SteamCache,285) - cache1-ymo-bell.steamcontent.com (207.35.48.34:80 / 207.35.48.34:80, host: cache1-ymo-bell.steamcontent.com): Closing connection
+[2019-12-06 06:57:45] HTTP (SteamCache,286) - cache2-ymo-bell.steamcontent.com (207.35.48.38:80 / 207.35.48.38:80, host: cache2-ymo-bell.steamcontent.com): Closing connection
+
+
+[2020-04-13 09:34:15] Loaded 0 apps from install folder "C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\steamapps\appmanifest_*.acf".
+[2020-04-13 09:34:22] Loaded 0 apps from install folder "c:\7d2d\alpha18\excitusxtreme\excitusxtremev2\steamapps\appmanifest_*.acf".
+[2020-04-13 09:34:23] AppID 251570 state changed : Update Required,
+[2020-04-13 09:34:23] AppID 228980 state changed : Update Required,Shared Only,
+[2020-04-13 09:34:23] AppID 228980 state changed : Update Required,
+[2020-04-13 09:34:23] Dependency added: parent 228980, child 251570, depot 228983
+[2020-04-13 09:34:23] AppID 251570 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=2, appDisableSecondsRemaining=0
+[2020-04-13 09:34:23] AppID 251570 state changed : Update Required,Update Queued,
+[2020-04-13 09:34:23] AppID 251570 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=2, appDisableSecondsRemaining=0
+[2020-04-13 09:34:23] AppID 251570 state changed : Update Required,Update Queued,Update Running,
+[2020-04-13 09:34:23] AppID 251570 update changed : Running,
+[2020-04-13 09:34:23] AppID 251570 update changed : Running,Reconfiguring,
+[2020-04-13 09:34:23] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (81/3)
+[2020-04-13 09:34:23] Created download interface of type 'SteamCache' (7) to host cache2-ymo-bell.steamcontent.com (cache2-ymo-bell.steamcontent.com)
+[2020-04-13 09:34:23] Created download interface of type 'SteamCache' (7) to host cache1-ymo-bell.steamcontent.com (cache1-ymo-bell.steamcontent.com)
+[2020-04-13 09:34:23] Created download interface of type 'SteamCache' (7) to host cache28-iad1.steamcontent.com (cache28-iad1.steamcontent.com)
+[2020-04-13 09:34:23] Created dual-stack http client
+[2020-04-13 09:34:24] HTTP (SteamCache,286) - cache2-ymo-bell.steamcontent.com (207.35.48.38:80 / 207.35.48.38:80, host: cache2-ymo-bell.steamcontent.com): cache2-ymo-bell.steamcontent.com/depot/251576/manifest/1829459294485917329/5 - received 200 (OK) HTTP response
+[2020-04-13 09:34:24] AppID 251570 update changed : Running,
+[2020-04-13 09:34:24] AppID 251570 update changed : Running,Validating,
+[2020-04-13 09:34:24] Validating files (new target,full) ...
+[2020-04-13 09:34:24] File validation finished: 5630 files (13561394450 bytes) total, 5630 files (13561394450 bytes) mismatched (106 msec).
+[2020-04-13 09:34:24] AppID 251570 update changed : Running,
+[2020-04-13 09:34:24] AppID 251570 update changed : Running,Preallocating,
+[2020-04-13 09:34:55] AppID 251570 update changed : Running,
+[2020-04-13 09:34:55] AppID 251570 update started : download 0/4853265504, store 0/0, reuse 0/0, delta 0/0, stage 0/13561394450 
+[2020-04-13 09:34:55] AppID 251570 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2020-04-13 09:34:55] AppID 251570 update changed : Running,Downloading,
+[2020-04-13 09:34:55] AppID 251570 update changed : Running,Downloading,Staging,
+[2020-04-13 09:34:55] Downloading 17223 chunks from depot 251576
+[2020-04-13 09:34:58] Increasing target number of download connections to 4 (rate was 0.000, now 13.223)
+[2020-04-13 09:34:58] Created download interface of type 'SteamCache' (7) to host cache25-iad1.steamcontent.com (cache25-iad1.steamcontent.com)
+[2020-04-13 09:35:10] Increasing target number of download connections to 5 (rate was 13.223, now 138.898)
+[2020-04-13 09:35:10] Created download interface of type 'SteamCache' (7) to host cache6-ord1.steamcontent.com (cache6-ord1.steamcontent.com)
+[2020-04-13 09:35:11] HTTP (SteamCache,118) - cache6-ord1.steamcontent.com (162.254.193.38:80 / 162.254.193.38:80, host: cache6-ord1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-04-13 09:35:30] Increasing target number of download connections to 6 (rate was 138.898, now 170.255)
+[2020-04-13 09:35:30] Created download interface of type 'SteamCache' (7) to host cache7-iad1.steamcontent.com (cache7-iad1.steamcontent.com)
+[2020-04-13 09:35:42] Current download rate: 174.884 Mbps
+[2020-04-13 09:36:43] Current download rate: 168.945 Mbps
+[2020-04-13 09:37:44] Current download rate: 174.979 Mbps
+[2020-04-13 09:38:45] Current download rate: 49.019 Mbps
+[2020-04-13 09:39:16] AppID 251570 update changed : Running,
+[2020-04-13 09:39:16] AppID 251570 update changed : Running,Committing,
+[2020-04-13 09:39:16] AppID 251570 file commit : 5675 updated, 0 moved, 0 deleted
+[2020-04-13 09:39:19] AppID 251570 state changed : Fully Installed,Update Queued,Update Running,
+[2020-04-13 09:39:19] AppID 251570 finished update, mounted depots (BuildID 4714807) : 251576 (1829459294485917329),
+[2020-04-13 09:39:19] AppID 251570 update changed : Running,
+[2020-04-13 09:39:19] AppID 251570 update changed : None
+[2020-04-13 09:39:19] AppID 251570 state changed : Fully Installed,Update Queued,
+[2020-04-13 09:39:19] AppID 251570 state changed : Fully Installed,
+[2020-04-13 09:39:19] AppID 251570 scheduler finished : removed from schedule
+[2020-04-13 09:39:19] HTTP (SteamCache,220) - cache7-iad1.steamcontent.com (162.254.192.6:80 / 162.254.192.6:80, host: cache7-iad1.steamcontent.com): Closing connection
+[2020-04-13 09:39:19] HTTP (SteamCache,118) - cache6-ord1.steamcontent.com (162.254.193.38:80 / 162.254.193.38:80, host: cache6-ord1.steamcontent.com): Closing connection
+[2020-04-13 09:39:19] HTTP (SteamCache,173) - cache25-iad1.steamcontent.com (162.254.192.15:80 / 162.254.192.15:80, host: cache25-iad1.steamcontent.com): Closing connection
+[2020-04-13 09:39:19] HTTP (SteamCache,288) - cache28-iad1.steamcontent.com (162.254.192.48:80 / 162.254.192.48:80, host: cache28-iad1.steamcontent.com): Closing connection
+[2020-04-13 09:39:19] HTTP (SteamCache,285) - cache1-ymo-bell.steamcontent.com (207.35.48.34:80 / 207.35.48.34:80, host: cache1-ymo-bell.steamcontent.com): Closing connection
+[2020-04-13 09:39:19] HTTP (SteamCache,286) - cache2-ymo-bell.steamcontent.com (207.35.48.38:80 / 207.35.48.38:80, host: cache2-ymo-bell.steamcontent.com): Closing connection
+
+
+[2020-05-05 20:49:06] Loaded 0 apps from install folder "C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\steamapps\appmanifest_*.acf".
+[2020-05-05 20:49:11] Loaded 0 apps from install folder "c:\7d2d\sphereii-mental\val-oween\steamapps\appmanifest_*.acf".
+[2020-05-05 20:49:12] AppID 251570 state changed : Update Required,
+[2020-05-05 20:49:12] AppID 228980 state changed : Update Required,Shared Only,
+[2020-05-05 20:49:12] AppID 228980 state changed : Update Required,
+[2020-05-05 20:49:12] Dependency added: parent 228980, child 251570, depot 228983
+[2020-05-05 20:49:12] AppID 251570 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=0, appDisableSecondsRemaining=0
+[2020-05-05 20:49:12] AppID 251570 state changed : Update Required,Update Queued,
+[2020-05-05 20:49:12] AppID 251570 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=0, appDisableSecondsRemaining=0
+[2020-05-05 20:49:12] AppID 251570 state changed : Update Required,Update Queued,Update Running,
+[2020-05-05 20:49:12] AppID 251570 update changed : Running,
+[2020-05-05 20:49:12] AppID 251570 update changed : Running,Reconfiguring,
+[2020-05-05 20:49:13] Got 21 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (81/3)
+[2020-05-05 20:49:13] Created download interface of type 'SteamCache' (7) to host cache25-iad1.steamcontent.com (cache25-iad1.steamcontent.com)
+[2020-05-05 20:49:13] Created download interface of type 'SteamCache' (7) to host cache15-iad1.steamcontent.com (cache15-iad1.steamcontent.com)
+[2020-05-05 20:49:13] Created download interface of type 'CDN' (2) to host f3b7q2p3.ssl.hwcdn.net (f3b7q2p3.ssl.hwcdn.net)
+[2020-05-05 20:49:13] Created dual-stack http client
+[2020-05-05 20:49:13] HTTP (SteamCache,173) - cache25-iad1.steamcontent.com ([2602:801:f002:101::a2fe:c00f]:80 / [2602:801:f002:101::a2fe:c00f]:80, host: cache25-iad1.steamcontent.com): cache25-iad1.steamcontent.com/depot/251576/manifest/7468628160220339213/5 - received 200 (OK) HTTP response
+[2020-05-05 20:49:13] AppID 251570 update changed : Running,
+[2020-05-05 20:49:13] AppID 251570 update changed : Running,Validating,
+[2020-05-05 20:49:13] Validating files (new target,full) ...
+[2020-05-05 20:49:13] File validation finished: 1590 files (3904234752 bytes) total, 1590 files (3904234752 bytes) mismatched (51 msec).
+[2020-05-05 20:49:13] AppID 251570 update changed : Running,
+[2020-05-05 20:49:13] AppID 251570 update changed : Running,Preallocating,
+[2020-05-05 20:49:13] HTTP (CDN,4) - f3b7q2p3.ssl.hwcdn.net ([2001:4de0:ac19::1:b:1b]:443 / [2001:4de0:ac19::1:b:1b]:443, host: f3b7q2p3.ssl.hwcdn.net): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-05 20:49:19] AppID 251570 update changed : Running,
+[2020-05-05 20:49:19] AppID 251570 update started : download 0/1510538288, store 0/0, reuse 0/0, delta 0/0, stage 0/3904234752 
+[2020-05-05 20:49:19] AppID 251570 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2020-05-05 20:49:19] AppID 251570 update changed : Running,Downloading,
+[2020-05-05 20:49:19] AppID 251570 update changed : Running,Downloading,Staging,
+[2020-05-05 20:49:19] Downloading 4825 chunks from depot 251576
+[2020-05-05 20:49:19] HTTP (CDN,4) - f3b7q2p3.ssl.hwcdn.net ([2001:4de0:ac19::1:b:1b]:443 / [2001:4de0:ac19::1:b:1b]:443, host: f3b7q2p3.ssl.hwcdn.net): AuthenticateDepotID (251576) - Success!
+[2020-05-05 20:49:25] Increasing target number of download connections to 4 (rate was 0.000, now 45.679)
+[2020-05-05 20:49:25] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2020-05-05 20:49:25] HTTP (CDN,11) - steampipe.akamaized.net ([2607:f798:14:32::d194:cd1b]:443 / [2607:f798:14:32::d194:cd1b]:443, host: steampipe.akamaized.net): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-05 20:49:26] HTTP (CDN,11) - steampipe.akamaized.net ([2607:f798:14:32::d194:cd1b]:443 / [2607:f798:14:32::d194:cd1b]:443, host: steampipe.akamaized.net): AuthenticateDepotID (251576) - Success!
+[2020-05-05 20:49:37] Increasing target number of download connections to 5 (rate was 45.679, now 149.006)
+[2020-05-05 20:50:26] Current download rate: 158.116 Mbps
+[2020-05-05 20:50:41] AppID 251570 update changed : Running,
+[2020-05-05 20:50:41] AppID 251570 update changed : Running,Committing,
+[2020-05-05 20:50:41] AppID 251570 starting commit from "c:\7d2d\sphereii-mental\val-oween\steamapps\downloading\251570" to "c:\7d2d\sphereii-mental\val-oween" : 1649 updated, 0 moved, 0 deleted files
+[2020-05-05 20:50:42] AppID 251570 state changed : Fully Installed,Update Queued,Update Running,
+[2020-05-05 20:50:42] AppID 251570 finished update, mounted depots (BuildID 2222519) : 251576 (7468628160220339213),
+[2020-05-05 20:50:42] AppID 251570 update changed : Running,
+[2020-05-05 20:50:42] AppID 251570 update changed : None
+[2020-05-05 20:50:42] AppID 251570 state changed : Fully Installed,Update Queued,
+[2020-05-05 20:50:42] AppID 251570 state changed : Fully Installed,
+[2020-05-05 20:50:42] AppID 251570 scheduler finished : removed from schedule
+[2020-05-05 20:50:42] HTTP (CDN,11) - steampipe.akamaized.net ([2607:f798:14:32::d194:cd29]:443 / [2607:f798:14:32::d194:cd29]:443, host: steampipe.akamaized.net): Closing connection
+[2020-05-05 20:50:42] HTTP (CDN,4) - f3b7q2p3.ssl.hwcdn.net ([2001:4de0:ac19::1:b:1b]:443 / [2001:4de0:ac19::1:b:1b]:443, host: f3b7q2p3.ssl.hwcdn.net): Closing connection
+[2020-05-05 20:50:42] HTTP (SteamCache,137) - cache15-iad1.steamcontent.com ([2602:801:f002:101::a2fe:c00a]:80 / [2602:801:f002:101::a2fe:c00a]:80, host: cache15-iad1.steamcontent.com): Closing connection
+[2020-05-05 20:50:42] HTTP (SteamCache,173) - cache25-iad1.steamcontent.com ([2602:801:f002:101::a2fe:c00f]:80 / [2602:801:f002:101::a2fe:c00f]:80, host: cache25-iad1.steamcontent.com): Closing connection

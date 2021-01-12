@@ -1,0 +1,26 @@
+
+
+[2019-12-05 11:36:11] Generated client id: 2503105477889737473
+[2019-12-05 11:36:11] Listening for IPv4 broadcast on: 27036
+[2019-12-05 11:36:11] Listening for connections on: 0.0.0.0:27036
+
+
+[2019-12-05 11:55:06] Loaded client id: 2503105477889737473
+[2019-12-05 11:55:06] Listening for IPv4 broadcast on: 27036
+[2019-12-05 11:55:06] Listening for connections on: 0.0.0.0:27036
+
+
+[2019-12-06 06:56:07] Loaded client id: 2503105477889737473
+[2019-12-06 06:56:07] Listening for IPv4 broadcast on: 27036
+[2019-12-06 06:56:07] Listening for connections on: 0.0.0.0:27036
+
+
+[2020-04-13 09:34:16] Loaded client id: 2503105477889737473
+[2020-04-13 09:34:16] Listening for IPv4 broadcast on: 27036
+[2020-04-13 09:34:16] Listening for connections on: 0.0.0.0:27036
+[2020-04-13 09:34:25] Received broadcast message from client 2181300663321142763 (CANB-N1007291): 2181300663321142763:27036
+
+
+[2020-05-05 20:49:06] Loaded client id: 2503105477889737473
+[2020-05-05 20:49:06] Listening for IPv4 broadcast on: 27036
+[2020-05-05 20:49:06] Listening for connections on: 0.0.0.0:27036

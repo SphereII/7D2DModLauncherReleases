@@ -1,0 +1,145 @@
+
+
+[2019-12-05 11:36:11] Setting parental settings for 59824344, account flags are 10084085
+[2019-12-05 11:36:11] Settings dump:
+[2019-12-05 11:36:11] 	Account ID: 59824344
+[2019-12-05 11:36:11] 	Enabled: false
+[2019-12-05 11:36:11] 	Base list: 0 (Allow all games)
+[2019-12-05 11:36:11] 	Custom list:
+[2019-12-05 11:36:11] 		29640 (allowed)
+[2019-12-05 11:36:11] 	Enabled features (181c):
+[2019-12-05 11:36:11] 		Community
+[2019-12-05 11:36:11] 		Profile
+[2019-12-05 11:36:11] 		Friends
+[2019-12-05 11:36:11] 		Library
+[2019-12-05 11:36:11] 		Test
+[2019-12-05 11:36:11] Disabling parental settings for 59824344, account flags are 10084085
+[2019-12-05 11:36:11] Validating parental settings
+[2019-12-05 11:36:11] Settings dump:
+[2019-12-05 11:36:11] 	Account ID: 59824344
+[2019-12-05 11:36:11] 	Enabled: false
+[2019-12-05 11:36:11] 	Base list: 0 (Allow all games)
+[2019-12-05 11:36:11] 	Custom list:
+[2019-12-05 11:36:11] 		29640 (allowed)
+[2019-12-05 11:36:11] 	Enabled features (181c):
+[2019-12-05 11:36:11] 		Community
+[2019-12-05 11:36:11] 		Profile
+[2019-12-05 11:36:11] 		Friends
+[2019-12-05 11:36:11] 		Library
+[2019-12-05 11:36:11] 		Test
+
+
+[2019-12-05 11:55:23] Setting parental settings for 59824344, account flags are 10084085
+[2019-12-05 11:55:23] Settings dump:
+[2019-12-05 11:55:23] 	Account ID: 59824344
+[2019-12-05 11:55:23] 	Enabled: false
+[2019-12-05 11:55:23] 	Base list: 0 (Allow all games)
+[2019-12-05 11:55:23] 	Custom list:
+[2019-12-05 11:55:23] 		29640 (allowed)
+[2019-12-05 11:55:23] 	Enabled features (181c):
+[2019-12-05 11:55:23] 		Community
+[2019-12-05 11:55:23] 		Profile
+[2019-12-05 11:55:23] 		Friends
+[2019-12-05 11:55:23] 		Library
+[2019-12-05 11:55:23] 		Test
+[2019-12-05 11:55:23] Disabling parental settings for 59824344, account flags are 10084085
+[2019-12-05 11:55:23] Validating parental settings
+[2019-12-05 11:55:23] Settings dump:
+[2019-12-05 11:55:23] 	Account ID: 59824344
+[2019-12-05 11:55:23] 	Enabled: false
+[2019-12-05 11:55:23] 	Base list: 0 (Allow all games)
+[2019-12-05 11:55:23] 	Custom list:
+[2019-12-05 11:55:23] 		29640 (allowed)
+[2019-12-05 11:55:23] 	Enabled features (181c):
+[2019-12-05 11:55:23] 		Community
+[2019-12-05 11:55:23] 		Profile
+[2019-12-05 11:55:23] 		Friends
+[2019-12-05 11:55:23] 		Library
+[2019-12-05 11:55:23] 		Test
+
+
+[2019-12-06 06:56:08] Setting parental settings for 59824344, account flags are 10084085
+[2019-12-06 06:56:08] Settings dump:
+[2019-12-06 06:56:08] 	Account ID: 59824344
+[2019-12-06 06:56:08] 	Enabled: false
+[2019-12-06 06:56:08] 	Base list: 0 (Allow all games)
+[2019-12-06 06:56:08] 	Custom list:
+[2019-12-06 06:56:08] 		29640 (allowed)
+[2019-12-06 06:56:08] 	Enabled features (181c):
+[2019-12-06 06:56:08] 		Community
+[2019-12-06 06:56:08] 		Profile
+[2019-12-06 06:56:08] 		Friends
+[2019-12-06 06:56:08] 		Library
+[2019-12-06 06:56:08] 		Test
+[2019-12-06 06:56:08] Disabling parental settings for 59824344, account flags are 10084085
+[2019-12-06 06:56:08] Validating parental settings
+[2019-12-06 06:56:08] Settings dump:
+[2019-12-06 06:56:08] 	Account ID: 59824344
+[2019-12-06 06:56:08] 	Enabled: false
+[2019-12-06 06:56:08] 	Base list: 0 (Allow all games)
+[2019-12-06 06:56:08] 	Custom list:
+[2019-12-06 06:56:08] 		29640 (allowed)
+[2019-12-06 06:56:08] 	Enabled features (181c):
+[2019-12-06 06:56:08] 		Community
+[2019-12-06 06:56:08] 		Profile
+[2019-12-06 06:56:08] 		Friends
+[2019-12-06 06:56:08] 		Library
+[2019-12-06 06:56:08] 		Test
+
+
+[2020-04-13 09:34:18] Setting parental settings for 59824344, account flags are 10084085
+[2020-04-13 09:34:18] Settings dump:
+[2020-04-13 09:34:18] 	Account ID: 59824344
+[2020-04-13 09:34:18] 	Enabled: false
+[2020-04-13 09:34:18] 	Base list: 0 (Allow all games)
+[2020-04-13 09:34:18] 	Custom list:
+[2020-04-13 09:34:18] 		29640 (allowed)
+[2020-04-13 09:34:18] 	Enabled features (181c):
+[2020-04-13 09:34:18] 		Community
+[2020-04-13 09:34:18] 		Profile
+[2020-04-13 09:34:18] 		Friends
+[2020-04-13 09:34:18] 		Library
+[2020-04-13 09:34:18] 		Test
+[2020-04-13 09:34:18] Disabling parental settings for 59824344, account flags are 10084085
+[2020-04-13 09:34:18] Validating parental settings
+[2020-04-13 09:34:18] Settings dump:
+[2020-04-13 09:34:18] 	Account ID: 59824344
+[2020-04-13 09:34:18] 	Enabled: false
+[2020-04-13 09:34:18] 	Base list: 0 (Allow all games)
+[2020-04-13 09:34:18] 	Custom list:
+[2020-04-13 09:34:18] 		29640 (allowed)
+[2020-04-13 09:34:18] 	Enabled features (181c):
+[2020-04-13 09:34:18] 		Community
+[2020-04-13 09:34:18] 		Profile
+[2020-04-13 09:34:18] 		Friends
+[2020-04-13 09:34:18] 		Library
+[2020-04-13 09:34:18] 		Test
+
+
+[2020-05-05 20:49:09] Setting parental settings for 59824344, account flags are 10084085
+[2020-05-05 20:49:09] Settings dump:
+[2020-05-05 20:49:09] 	Account ID: 59824344
+[2020-05-05 20:49:09] 	Enabled: false
+[2020-05-05 20:49:09] 	Base list: 0 (Allow all games)
+[2020-05-05 20:49:09] 	Custom list:
+[2020-05-05 20:49:09] 		29640 (allowed)
+[2020-05-05 20:49:09] 	Enabled features (181c):
+[2020-05-05 20:49:09] 		Community
+[2020-05-05 20:49:09] 		Profile
+[2020-05-05 20:49:09] 		Friends
+[2020-05-05 20:49:09] 		Library
+[2020-05-05 20:49:09] 		Test
+[2020-05-05 20:49:09] Disabling parental settings for 59824344, account flags are 10084085
+[2020-05-05 20:49:09] Validating parental settings
+[2020-05-05 20:49:09] Settings dump:
+[2020-05-05 20:49:09] 	Account ID: 59824344
+[2020-05-05 20:49:09] 	Enabled: false
+[2020-05-05 20:49:09] 	Base list: 0 (Allow all games)
+[2020-05-05 20:49:09] 	Custom list:
+[2020-05-05 20:49:09] 		29640 (allowed)
+[2020-05-05 20:49:09] 	Enabled features (181c):
+[2020-05-05 20:49:09] 		Community
+[2020-05-05 20:49:09] 		Profile
+[2020-05-05 20:49:09] 		Friends
+[2020-05-05 20:49:09] 		Library
+[2020-05-05 20:49:09] 		Test

@@ -1,0 +1,95 @@
+
+
+[2019-12-05 10:52:58] Failed to read store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf.tmp'
+[2019-12-05 10:52:58] Failed to read store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf.tmp'
+[2019-12-05 10:52:59] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 10:53:00] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 10:53:00] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:35:40] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2019-12-05 11:35:41] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:36:11] Failed to read store 'userlocal' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf.tmp'
+[2019-12-05 11:36:11] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:36:11] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2019-12-05 11:36:13] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2019-12-05 11:36:17] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2019-12-05 11:36:18] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2019-12-05 11:36:19] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2019-12-05 11:36:20] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:36:20] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2019-12-05 11:36:51] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:37:21] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:37:51] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:38:21] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:38:51] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:39:21] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:39:51] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:40:21] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+
+
+[2019-12-05 11:55:06] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2019-12-05 11:55:06] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2019-12-05 11:55:06] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2019-12-05 11:55:06] Loaded store 'userlocal' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf' successfully
+[2019-12-05 11:55:06] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:55:07] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:55:23] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:55:23] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2019-12-05 11:55:24] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:55:24] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2019-12-05 11:55:55] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:56:25] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:56:55] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-05 11:57:00] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+
+
+[2019-12-06 06:56:06] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2019-12-06 06:56:06] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2019-12-06 06:56:07] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2019-12-06 06:56:07] Loaded store 'userlocal' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf' successfully
+[2019-12-06 06:56:08] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-06 06:56:09] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-06 06:56:09] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2019-12-06 06:56:10] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-06 06:56:10] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2019-12-06 06:56:53] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-06 06:57:23] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2019-12-06 06:57:45] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+
+
+[2020-04-13 09:34:15] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2020-04-13 09:34:15] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2020-04-13 09:34:16] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2020-04-13 09:34:16] Loaded store 'userlocal' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf' successfully
+[2020-04-13 09:34:16] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-04-13 09:34:18] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-04-13 09:34:18] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2020-04-13 09:34:18] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-04-13 09:34:21] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2020-04-13 09:34:23] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2020-04-13 09:35:24] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-04-13 09:35:54] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-04-13 09:36:24] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-04-13 09:36:54] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-04-13 09:37:24] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-04-13 09:37:54] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-04-13 09:38:24] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-04-13 09:38:54] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-04-13 09:39:19] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+
+
+[2020-05-05 20:49:06] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2020-05-05 20:49:06] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2020-05-05 20:49:06] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf' successfully
+[2020-05-05 20:49:06] Loaded store 'userlocal' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf' successfully
+[2020-05-05 20:49:06] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-05-05 20:49:09] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-05-05 20:49:10] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-05-05 20:49:10] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2020-05-05 20:49:11] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-05-05 20:49:12] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2020-05-05 20:49:13] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2020-05-05 20:49:15] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2020-05-05 20:49:19] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2020-05-05 20:49:26] Flushed store 'userlocal' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\userdata\59824344\config\localconfig.vdf'
+[2020-05-05 20:49:44] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
+[2020-05-05 20:50:14] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\config\config.vdf'
