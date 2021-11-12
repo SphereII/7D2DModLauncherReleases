@@ -1,26 +1,39 @@
 
 
-[2019-12-05 11:36:11] Generated client id: 2503105477889737473
-[2019-12-05 11:36:11] Listening for IPv4 broadcast on: 27036
-[2019-12-05 11:36:11] Listening for connections on: 0.0.0.0:27036
+[2020-12-28 08:07:09] Generated client id: 22763415347498121
+[2020-12-28 08:07:09] Listening for IPv4 broadcast on: 27036
+[2020-12-28 08:07:09] Listening for connections on: 0.0.0.0:27036
+[2020-12-28 08:07:09] Received broadcast message from client 16313830209712751044 (DESKTOP-GEUNFIU): 10.0.0.87:27036
+[2020-12-28 08:07:09] Received broadcast message from client 257771075785949507 (Emmie): 10.0.0.189:27036
+[2020-12-28 08:07:10] Received discovery message from client 257771075785949507 at 10.0.0.189:27036
+[2020-12-28 08:07:10] Received broadcast message from client 16382900639450434362 (DESKTOP-G2PGDB2): 16382900639450434362:27036
+[2020-12-28 08:07:10] Received broadcast message from client 257771075785949507 (Emmie): 257771075785949507:27036
+[2020-12-28 08:07:11] Received broadcast message from client 16313830209712751044 (DESKTOP-GEUNFIU): 10.0.0.87:27036
+[2020-12-28 08:07:11] Received broadcast message from client 257771075785949507 (Emmie): 10.0.0.189:27036
+[2020-12-28 08:07:14] Received broadcast message from client 16382900639450434362 (DESKTOP-G2PGDB2): 16382900639450434362:27036
+[2020-12-28 08:07:14] Received broadcast message from client 257771075785949507 (Emmie): 257771075785949507:27036
+[2020-12-28 08:07:16] Received broadcast message from client 16382900639450434362 (DESKTOP-G2PGDB2): 16382900639450434362:27036
+[2020-12-28 08:07:16] Received broadcast message from client 257771075785949507 (Emmie): 257771075785949507:27036
+[2020-12-28 08:07:28] Received broadcast message from client 257771075785949507 (Emmie): 10.0.0.189:27036
+[2020-12-28 08:07:28] BAcceptConnection: 10.0.0.189:63134
+[2020-12-28 08:07:28] Incoming connection accepted: 0x31 10.0.0.189:63134
+[2020-12-28 08:07:36] Received broadcast message from client 16313830209712751044 (DESKTOP-GEUNFIU): 10.0.0.87:27036
+[2020-12-28 08:08:10] Received discovery message from client 257771075785949507 at 10.0.0.189:27036
 
 
-[2019-12-05 11:55:06] Loaded client id: 2503105477889737473
-[2019-12-05 11:55:06] Listening for IPv4 broadcast on: 27036
-[2019-12-05 11:55:06] Listening for connections on: 0.0.0.0:27036
-
-
-[2019-12-06 06:56:07] Loaded client id: 2503105477889737473
-[2019-12-06 06:56:07] Listening for IPv4 broadcast on: 27036
-[2019-12-06 06:56:07] Listening for connections on: 0.0.0.0:27036
-
-
-[2020-04-13 09:34:16] Loaded client id: 2503105477889737473
-[2020-04-13 09:34:16] Listening for IPv4 broadcast on: 27036
-[2020-04-13 09:34:16] Listening for connections on: 0.0.0.0:27036
-[2020-04-13 09:34:25] Received broadcast message from client 2181300663321142763 (CANB-N1007291): 2181300663321142763:27036
-
-
-[2020-05-05 20:49:06] Loaded client id: 2503105477889737473
-[2020-05-05 20:49:06] Listening for IPv4 broadcast on: 27036
-[2020-05-05 20:49:06] Listening for connections on: 0.0.0.0:27036
+[2021-01-01 09:27:49] Loaded client id: 22763415347498121
+[2021-01-01 09:27:49] Listening for IPv4 broadcast on: 27036
+[2021-01-01 09:27:49] Listening for connections on: 0.0.0.0:27036
+[2021-01-01 09:27:49] BAcceptConnection: 10.0.0.189:50022
+[2021-01-01 09:27:49] Received broadcast message from client 16313830209712751044 (DESKTOP-GEUNFIU): 10.0.0.87:27036
+[2021-01-01 09:27:49] Received broadcast message from client 257771075785949507 (Emmie): 10.0.0.189:27036
+[2021-01-01 09:27:49] Incoming connection accepted: 0xd 10.0.0.189:50022
+[2021-01-01 09:27:50] Received broadcast message from client 257771075785949507 (Emmie): 257771075785949507:27036
+[2021-01-01 09:27:50] Received discovery message from client 257771075785949507 at 10.0.0.189:27036
+[2021-01-01 09:27:51] Received broadcast message from client 16313830209712751044 (DESKTOP-GEUNFIU): 10.0.0.87:27036
+[2021-01-01 09:27:52] Received broadcast message from client 257771075785949507 (Emmie): 10.0.0.189:27036
+[2021-01-01 09:27:53] Received broadcast message from client 257771075785949507 (Emmie): 257771075785949507:27036
+[2021-01-01 09:27:57] Received broadcast message from client 257771075785949507 (Emmie): 257771075785949507:27036
+[2021-01-01 09:28:11] Received broadcast message from client 257771075785949507 (Emmie): 10.0.0.189:27036
+[2021-01-01 09:28:13] Received broadcast message from client 16313830209712751044 (DESKTOP-GEUNFIU): 10.0.0.87:27036
+[2021-01-01 09:28:50] Received discovery message from client 257771075785949507 at 10.0.0.189:27036

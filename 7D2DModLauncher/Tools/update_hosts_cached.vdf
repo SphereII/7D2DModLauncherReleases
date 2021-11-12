@@ -1,0 +1,47 @@
+""
+{
+	"serverlist"
+	{
+		"Hosts"
+		{
+			"Realms"
+			{
+				"SteamGlobal"
+				{
+					"steamcdn-a.akamaihd.net"
+					{
+						"base_url"		"/client/"
+						"weight"		"100"
+						"https"		"1"
+					}
+					"media.st.dl.pinyuncloud.com"
+					{
+						"base_url"		"/client/"
+						"weight"		"1000"
+						"country_codes"		"CN"
+						"https"		"1"
+					}
+				}
+				"steamchina"
+				{
+					"media.st.dl.pinyuncloud.com"
+					{
+						"base_url"		"/client/"
+						"weight"		"100"
+						"country_codes"		"CN"
+						"https"		"1"
+					}
+				}
+			}
+		}
+		"kvsign2"
+		{
+			"Hosts"		"10de01f6c02b907028ab21d756018843e4615f71554a461ed4ae8f799c6a2a2829429b17410eea5332ec188c648a873b961ac41a3456687c8f9d4b87a840ff01"
+		}
+	}
+	"ClientInfo"
+	{
+		"valid_until"		"1609676905"
+		"ip_country_code"		"CA"
+	}
+}

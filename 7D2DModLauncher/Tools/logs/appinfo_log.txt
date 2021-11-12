@@ -1,84 +1,37 @@
 
 
-[2019-12-05 11:36:11] RequestAppInfoUpdate: nNumAppIDs 1
-[2019-12-05 11:36:11] Change number 0->7323169, apps: 0/0, packages: 0/0
-[2019-12-05 11:36:11] Requesting 1 apps, 270 packages (meta data, 1024 prev attempts)
-[2019-12-05 11:36:12] Requesting 1 apps, 270 packages (full data, 1024 prev attempts)
-[2019-12-05 11:36:12] UpdatesJob: finished OK, nAppsUpdated 1 (3 KB), nPackagesUpdated 270 (56 KB)
-[2019-12-05 11:36:12] Requesting 638 apps, 0 packages (meta data, 1024 prev attempts)
-[2019-12-05 11:36:13] Requested 87 access tokens, 71 received, 16 denied
-[2019-12-05 11:36:13] Updated SHAs with 71 new access tokens
-[2019-12-05 11:36:14] Downloaded 76 apps via HTTP, 2173 KB (508 KB compressed)
-[2019-12-05 11:36:14] Requesting 562 apps, 0 packages (full data, 1024 prev attempts)
-[2019-12-05 11:36:16] UpdatesJob: finished OK, nAppsUpdated 638 (3632 KB), nPackagesUpdated 0 (0 KB)
-[2019-12-05 11:36:19] RequestAppInfoUpdate: nNumAppIDs 1
-[2019-12-05 11:36:19] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
-[2019-12-05 11:36:19] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
-[2019-12-05 11:36:31] Starting async write C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools/appcache/appinfo.vdf (2685573 bytes)
+[2020-12-28 08:07:09] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-12-28 08:07:14] Change number 0->10355241, apps: 0/0, packages: 0/0
+[2020-12-28 08:07:14] Requesting 1 apps, 304 packages (meta data, 1024 prev attempts)
+[2020-12-28 08:07:14] Requesting 1 apps, 304 packages (full data, 1024 prev attempts)
+[2020-12-28 08:07:16] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 304 (62 KB)
+[2020-12-28 08:07:16] Requesting 664 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-12-28 08:07:19] Requested 74 app access tokens, 60 received, 14 denied
+[2020-12-28 08:07:20] Updated SHAs with 60 new access tokens
+[2020-12-28 08:07:20] Downloaded 89 apps via HTTP, 2611 KB (611 KB compressed)
+[2020-12-28 08:07:20] Requesting 575 apps, 0 packages (full data, 1024 prev attempts)
+[2020-12-28 08:07:31] Starting async write C:\Program Files\SphereII Software\7D2D Mod Launcher Installer\Tools/appcache/appinfo.vdf (2389021 bytes)
+[2020-12-28 08:07:38] UpdatesJob: finished OK, apps updated 664 (4184 KB), packages updated 0 (0 KB)
+[2020-12-28 08:07:39] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-12-28 08:07:39] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-12-28 08:07:42] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2020-12-28 08:07:53] Starting async write C:\Program Files\SphereII Software\7D2D Mod Launcher Installer\Tools/appcache/appinfo.vdf (3105138 bytes)
 
 
-[2019-12-05 11:55:23] RequestAppInfoUpdate: nNumAppIDs 1
-[2019-12-05 11:55:23] Packages changed: 
-[2019-12-05 11:55:23] Apps changed: 322330=7323271,343050=7323250,246620=7323211,
-[2019-12-05 11:55:23] Change number 7323169->7323284, apps: 3/83, packages: 0/19
-[2019-12-05 11:55:23] Requesting 20 apps, 0 packages (meta data, 1024 prev attempts)
-[2019-12-05 11:55:23] Requested 16 access tokens, 0 received, 16 denied
-[2019-12-05 11:55:23] Downloaded 2 apps via HTTP, 26 KB (8 KB compressed)
-[2019-12-05 11:55:23] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
-[2019-12-05 11:55:23] RequestAppInfoUpdate: nNumAppIDs 1
-[2019-12-05 11:55:24] UpdatesJob: finished OK, nAppsUpdated 3 (32 KB), nPackagesUpdated 0 (0 KB)
-[2019-12-05 11:55:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
-[2019-12-05 11:55:24] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
-[2019-12-05 11:55:39] Starting async write C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools/appcache/appinfo.vdf (2685573 bytes)
-
-
-[2019-12-06 06:56:08] RequestAppInfoUpdate: nNumAppIDs 1
-[2019-12-06 06:56:09] Packages changed: 19007=7324144,28005=7324118,
-[2019-12-06 06:56:09] Apps changed: 246620=7328068,374040=7327992,301520=7327473,443030=7327414,440900=7327404,1042420=7327122,346110=7326908,376030=7326834,259080=7326686,244850=7326683,570=7326675,218620=7326599,471710=7326595,413150=7326443,343050=7325933,322330=7325932,294420=7325929,
-[2019-12-06 06:56:09] Change number 7323284->7328224, apps: 33/2005, packages: 2/742
-[2019-12-06 06:56:09] Requesting 50 apps, 2 packages (meta data, 1024 prev attempts)
-[2019-12-06 06:56:09] Requested 16 access tokens, 0 received, 16 denied
-[2019-12-06 06:56:09] Downloaded 14 apps via HTTP, 519 KB (107 KB compressed)
-[2019-12-06 06:56:09] Requesting 10 apps, 0 packages (full data, 1024 prev attempts)
-[2019-12-06 06:56:09] RequestAppInfoUpdate: nNumAppIDs 1
-[2019-12-06 06:56:10] UpdatesJob: finished OK, nAppsUpdated 24 (564 KB), nPackagesUpdated 0 (0 KB)
-[2019-12-06 06:56:10] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
-[2019-12-06 06:56:10] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
-[2019-12-06 06:56:25] Starting async write C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools/appcache/appinfo.vdf (2686062 bytes)
-
-
-[2020-04-13 09:34:18] RequestAppInfoUpdate: nNumAppIDs 1
-[2020-04-13 09:34:18] Packages changed: force all
-[2020-04-13 09:34:18] Apps changed: force all
-[2020-04-13 09:34:18] Change number 7328224->8176836, apps: 0/0, packages: 0/0
-[2020-04-13 09:34:18] Requesting 639 apps, 278 packages (meta data, 1024 prev attempts)
-[2020-04-13 09:34:19] Requested 16 access tokens, 0 received, 16 denied
-[2020-04-13 09:34:20] Downloaded 75 apps via HTTP, 2341 KB (549 KB compressed)
-[2020-04-13 09:34:20] Requesting 314 apps, 13 packages (full data, 1024 prev attempts)
-[2020-04-13 09:34:21] UpdatesJob: finished OK, nAppsUpdated 389 (3527 KB), nPackagesUpdated 13 (11 KB)
-[2020-04-13 09:34:21] Requesting 15 apps, 0 packages (meta data, 1024 prev attempts)
-[2020-04-13 09:34:21] Requested 5 access tokens, 2 received, 3 denied
-[2020-04-13 09:34:22] Updated SHAs with 2 new access tokens
-[2020-04-13 09:34:22] Downloaded 1 apps via HTTP, 8 KB (2 KB compressed)
-[2020-04-13 09:34:22] Requesting 11 apps, 0 packages (full data, 1024 prev attempts)
-[2020-04-13 09:34:22] UpdatesJob: finished OK, nAppsUpdated 12 (53 KB), nPackagesUpdated 0 (0 KB)
-[2020-04-13 09:34:23] RequestAppInfoUpdate: nNumAppIDs 1
-[2020-04-13 09:34:23] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
-[2020-04-13 09:34:23] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
-[2020-04-13 09:34:37] Starting async write C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools/appcache/appinfo.vdf (2890287 bytes)
-
-
-[2020-05-05 20:49:09] RequestAppInfoUpdate: nNumAppIDs 1
-[2020-05-05 20:49:09] Packages changed: force all
-[2020-05-05 20:49:09] Apps changed: force all
-[2020-05-05 20:49:09] Change number 8176836->8358924, apps: 0/0, packages: 0/0
-[2020-05-05 20:49:10] Requesting 651 apps, 278 packages (meta data, 1024 prev attempts)
-[2020-05-05 20:49:11] Requested 16 app access tokens, 0 received, 16 denied
-[2020-05-05 20:49:11] RequestAppInfoUpdate: nNumAppIDs 1
-[2020-05-05 20:49:12] Downloaded 48 apps via HTTP, 1555 KB (362 KB compressed)
-[2020-05-05 20:49:12] Requesting 112 apps, 2 packages (full data, 1024 prev attempts)
-[2020-05-05 20:49:12] UpdatesJob: finished OK, nAppsUpdated 159 (2025 KB), nPackagesUpdated 2 (9 KB)
-[2020-05-05 20:49:12] Requesting 3 apps, 0 packages (meta data, 1024 prev attempts)
-[2020-05-05 20:49:13] Requested 3 app access tokens, 0 received, 3 denied
-[2020-05-05 20:49:13] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
-[2020-05-05 20:49:27] Starting async write C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools/appcache/appinfo.vdf (2866338 bytes)
+[2021-01-01 09:27:49] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-01-01 09:27:50] Packages changed: force all
+[2021-01-01 09:27:50] Apps changed: force all
+[2021-01-01 09:27:50] Change number 10355241->10378145, apps: 0/0, packages: 0/0
+[2021-01-01 09:27:50] Requesting 665 apps, 305 packages (meta data, 1024 prev attempts)
+[2021-01-01 09:27:50] Requested 74 app access tokens, 60 received, 14 denied
+[2021-01-01 09:27:50] Updated SHAs with 60 new access tokens
+[2021-01-01 09:27:51] Downloaded 18 apps via HTTP, 1092 KB (236 KB compressed)
+[2021-01-01 09:27:51] Requesting 47 apps, 1 packages (full data, 1024 prev attempts)
+[2021-01-01 09:27:52] UpdatesJob: finished OK, apps updated 65 (1283 KB), packages updated 1 (0 KB)
+[2021-01-01 09:27:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-01-01 09:27:52] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2021-01-01 09:27:52] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2021-01-01 09:27:52] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-01-01 09:27:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-01-01 09:27:53] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2021-01-01 09:28:07] Starting async write C:\Program Files\SphereII Software\7D2D Mod Launcher Installer\Tools/appcache/appinfo.vdf (3117438 bytes)

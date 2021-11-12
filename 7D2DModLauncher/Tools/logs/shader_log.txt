@@ -1,39 +1,15 @@
 
 
-[2019-12-05 10:52:58] Attempting to find current bucket; temporary dir: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_64
-[2019-12-05 10:52:59] Creating shader cache directory: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_64
-[2019-12-05 10:52:59] Unknown shader cache type, ignoring.
-[2019-12-05 10:52:59] Attempting to find current bucket; temporary dir: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_32
-[2019-12-05 10:52:59] Creating shader cache directory: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_32
-[2019-12-05 10:52:59] Unknown shader cache type, ignoring.
-[2019-12-05 10:53:00] Found 0 current buckets:
+[2020-12-28 08:03:45] Shader manager disabled due to running as steamcmd
 
 
-[2019-12-05 11:55:06] Attempting to find current bucket; temporary dir: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_64
-[2019-12-05 11:55:06] Creating shader cache directory: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_64
-[2019-12-05 11:55:06] Unknown shader cache type, ignoring.
-[2019-12-05 11:55:06] Attempting to find current bucket; temporary dir: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_32
-[2019-12-05 11:55:06] Creating shader cache directory: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_32
-[2019-12-05 11:55:06] Unknown shader cache type, ignoring.
-[2019-12-05 11:55:07] Found 0 current buckets:
+[2020-12-28 08:05:51] Shader manager disabled due to running as steamcmd
 
 
-[2019-12-06 06:56:06] Attempting to find current bucket; temporary dir: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_64
-[2019-12-06 06:56:07] Creating shader cache directory: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_64
-[2019-12-06 06:56:07] Unknown shader cache type, ignoring.
-[2019-12-06 06:56:08] Attempting to find current bucket; temporary dir: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_32
-[2019-12-06 06:56:08] Creating shader cache directory: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_32
-[2019-12-06 06:56:08] Unknown shader cache type, ignoring.
-[2019-12-06 06:56:08] Found 0 current buckets:
+[2021-01-01 09:27:48] Shader manager disabled due to running as steamcmd
 
 
-[2020-04-13 09:34:15] Attempting to find current bucket; temporary dir: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_64
-[2020-04-13 09:34:16] Creating shader cache directory: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_64
-[2020-04-13 09:34:16] Unknown shader cache type, ignoring.
-[2020-04-13 09:34:16] Attempting to find current bucket; temporary dir: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_32
-[2020-04-13 09:34:16] Creating shader cache directory: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\ReleaseWithSymbols\Tools\shader_cache_temp_dir_gl_32
-[2020-04-13 09:34:16] Unknown shader cache type, ignoring.
-[2020-04-13 09:34:17] Found 0 current buckets:
+[2021-03-29 09:14:04] Shader manager disabled due to running as steamcmd
 
 
-[2020-05-05 20:49:06] Shader manager disabled due to running as steamcmd
+[2021-03-29 09:14:17] Shader manager disabled due to running as steamcmd

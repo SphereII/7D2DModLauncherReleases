@@ -1,108 +1,46 @@
 
 
-[2019-12-05 11:36:11] [U:1:59824344] [AppID 7] Init cache request complete
-[2019-12-05 11:36:11] Starting sync job
-[2019-12-05 11:36:11] [AppID 7] Starting sync (init,)
-[2019-12-05 11:36:17] Starting sync job
-[2019-12-05 11:36:17] [AppID 7] Starting sync (down,)
-[2019-12-05 11:36:17] [AppID 7] Need to download file serverbrowser_hist.vdf
-[2019-12-05 11:36:17] [AppID 7] Need to download file sharedconfig.vdf
-[2019-12-05 11:36:17] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloud-us-west1.storage.googleapis.com' beginning. . .
-[2019-12-05 11:36:18] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloud-us-west1.storage.googleapis.com' - Success.
-[2019-12-05 11:36:18] [AppID 7] Download OK for file serverbrowser_hist.vdf
-[2019-12-05 11:36:18] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-us-east1.storage.googleapis.com' beginning. . .
-[2019-12-05 11:36:18] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-us-east1.storage.googleapis.com' - Success.
-[2019-12-05 11:36:18] [AppID 7] Download OK for file sharedconfig.vdf
-[2019-12-05 11:36:18] [AppID 7] Download complete, result OK
+[2020-12-28 08:07:10] [AppID 7] AutoCloud checking local state for user 59824344
+[2020-12-28 08:07:10] [AppID 7] Not running AutoCloud. No config data found
+[2020-12-28 08:07:10] [U:1:59824344] [AppID 7] Init cache request complete
+[2020-12-28 08:07:10] Starting sync job
+[2020-12-28 08:07:10] [AppID 7] Starting sync (init,)
+[2020-12-28 08:07:38] Starting sync job
+[2020-12-28 08:07:38] [AppID 7] Starting sync (down,)
+[2020-12-28 08:07:38] [AppID 7] Need to download file serverbrowser_hist.vdf
+[2020-12-28 08:07:38] [AppID 7] Skipping download of file sharedconfig.vdf to our platform
+[2020-12-28 08:07:39] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloudtoronto2.blob.core.windows.net' beginning. . .
+[2020-12-28 08:07:39] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloudtoronto2.blob.core.windows.net' - Success.
+[2020-12-28 08:07:39] [AppID 7] Download OK for file serverbrowser_hist.vdf
+[2020-12-28 08:07:39] [AppID 7] Download complete, result OK
 
 
-[2019-12-05 11:55:06] [U:1:59824344] [AppID 7] Init cache request complete
-[2019-12-05 11:55:06] Starting sync job
-[2019-12-05 11:55:06] [AppID 7] Starting sync (init,)
-[2019-12-05 11:55:22] [U:1:59824344] [AppID 7] Init cache request complete
-[2019-12-05 11:55:22] Starting sync job
-[2019-12-05 11:55:22] [AppID 7] Starting sync (init,)
-[2019-12-05 11:55:23] Starting sync job
-[2019-12-05 11:55:23] [AppID 7] Starting sync (eval,)
-[2019-12-05 11:55:23] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2019-12-05 11:55:23] [AppID 7] File is in sync sharedconfig.vdf
-[2019-12-05 11:55:23] [AppID 7] Eval complete
-[2019-12-05 11:55:23] Starting sync job
-[2019-12-05 11:55:23] [AppID 7] Starting sync (down,)
-[2019-12-05 11:55:23] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2019-12-05 11:55:23] [AppID 7] File is in sync sharedconfig.vdf
-[2019-12-05 11:55:23] [AppID 7] Download complete in build list
-[2019-12-05 11:55:23] Starting sync job
-[2019-12-05 11:55:23] [AppID 7] Starting sync (eval,)
-[2019-12-05 11:55:23] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2019-12-05 11:55:23] [AppID 7] File is in sync sharedconfig.vdf
-[2019-12-05 11:55:23] [AppID 7] Eval complete
+[2021-01-01 09:27:49] [AppID 7] AutoCloud checking local state for user 59824344
+[2021-01-01 09:27:49] [U:1:59824344] [AppID 7] Init cache request complete
+[2021-01-01 09:27:49] Starting sync job
+[2021-01-01 09:27:49] [AppID 7] Starting sync (init,)
+[2021-01-01 09:27:50] [AppID 7] AutoCloud checking local state for user 59824344
+[2021-01-01 09:27:50] Starting sync job
+[2021-01-01 09:27:50] [AppID 7] Starting sync (eval,)
+[2021-01-01 09:27:50] [AppID 7] Need to download file serverbrowser_hist.vdf
+[2021-01-01 09:27:50] [AppID 7] Skipping download of file sharedconfig.vdf to our platform
+[2021-01-01 09:27:50] [AppID 7] Eval complete
+[2021-01-01 09:27:50] Starting sync job
+[2021-01-01 09:27:50] [AppID 7] Starting sync (down,)
+[2021-01-01 09:27:50] [AppID 7] Need to download file serverbrowser_hist.vdf
+[2021-01-01 09:27:50] [AppID 7] Skipping download of file sharedconfig.vdf to our platform
+[2021-01-01 09:27:50] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloudtoronto2.blob.core.windows.net' beginning. . .
+[2021-01-01 09:27:51] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloudtoronto2.blob.core.windows.net' - Success.
+[2021-01-01 09:27:51] [AppID 7] Download OK for file serverbrowser_hist.vdf
+[2021-01-01 09:27:51] [AppID 7] Download complete, result OK
+[2021-01-01 09:27:52] Starting sync job
+[2021-01-01 09:27:52] [AppID 7] Starting sync (down,)
+[2021-01-01 09:27:52] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-01-01 09:27:52] [AppID 7] Skipping download of file sharedconfig.vdf to our platform
+[2021-01-01 09:27:52] [AppID 7] Download complete in build list
 
 
-[2019-12-06 06:56:07] [U:1:59824344] [AppID 7] Init cache request complete
-[2019-12-06 06:56:07] Starting sync job
-[2019-12-06 06:56:07] [AppID 7] Starting sync (init,)
-[2019-12-06 06:56:09] Starting sync job
-[2019-12-06 06:56:09] [AppID 7] Starting sync (eval,)
-[2019-12-06 06:56:09] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2019-12-06 06:56:09] [AppID 7] File is in sync sharedconfig.vdf
-[2019-12-06 06:56:09] [AppID 7] Eval complete
-[2019-12-06 06:56:09] Starting sync job
-[2019-12-06 06:56:09] [AppID 7] Starting sync (down,)
-[2019-12-06 06:56:09] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2019-12-06 06:56:09] [AppID 7] File is in sync sharedconfig.vdf
-[2019-12-06 06:56:09] [AppID 7] Download complete in build list
-[2019-12-06 06:56:09] Starting sync job
-[2019-12-06 06:56:09] [AppID 7] Starting sync (eval,)
-[2019-12-06 06:56:09] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2019-12-06 06:56:09] [AppID 7] File is in sync sharedconfig.vdf
-[2019-12-06 06:56:09] [AppID 7] Eval complete
-
-
-[2020-04-13 09:34:16] [U:1:59824344] [AppID 7] Init cache request complete
-[2020-04-13 09:34:16] Starting sync job
-[2020-04-13 09:34:16] [AppID 7] Starting sync (init,)
-[2020-04-13 09:34:18] Starting sync job
-[2020-04-13 09:34:18] [AppID 7] Starting sync (eval,)
-[2020-04-13 09:34:19] [AppID 7] Eval complete
-[2020-04-13 09:34:19] Starting sync job
-[2020-04-13 09:34:19] [AppID 7] Starting sync (down,)
-[2020-04-13 09:34:19] [AppID 7] Resolving file serverbrowser_hist.vdf from state 4, bUseLocal = false
-[2020-04-13 09:34:19] [AppID 7] Resolving file sharedconfig.vdf from state 2, bUseLocal = false
-[2020-04-13 09:34:19] [AppID 7] Need to download file serverbrowser_hist.vdf
-[2020-04-13 09:34:19] [AppID 7] Skipping download of file sharedconfig.vdf to our platform
-[2020-04-13 09:34:19] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloud-us-west1.storage.googleapis.com' beginning. . .
-[2020-04-13 09:34:20] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloud-us-west1.storage.googleapis.com' - Success.
-[2020-04-13 09:34:20] [AppID 7] Download OK for file serverbrowser_hist.vdf
-[2020-04-13 09:34:20] [AppID 7] Download complete, result OK
-[2020-04-13 09:34:22] Starting sync job
-[2020-04-13 09:34:22] [AppID 7] Starting sync (down,)
-[2020-04-13 09:34:22] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2020-04-13 09:34:22] [AppID 7] Skipping download of file sharedconfig.vdf to our platform
-[2020-04-13 09:34:22] [AppID 7] Download complete in build list
-
-
-[2020-05-05 20:49:06] [U:1:59824344] [AppID 7] Init cache request complete
-[2020-05-05 20:49:06] Starting sync job
-[2020-05-05 20:49:06] [AppID 7] Starting sync (init,)
-[2020-05-05 20:49:09] Starting sync job
-[2020-05-05 20:49:09] [AppID 7] Starting sync (eval,)
-[2020-05-05 20:49:10] [AppID 7] Need to download file serverbrowser_hist.vdf
-[2020-05-05 20:49:10] [AppID 7] Need to download file sharedconfig.vdf
-[2020-05-05 20:49:10] [AppID 7] Eval complete
-[2020-05-05 20:49:10] Starting sync job
-[2020-05-05 20:49:10] [AppID 7] Starting sync (down,)
-[2020-05-05 20:49:10] [AppID 7] Need to download file serverbrowser_hist.vdf
-[2020-05-05 20:49:10] [AppID 7] Need to download file sharedconfig.vdf
-[2020-05-05 20:49:10] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloud-us-east1.storage.googleapis.com' beginning. . .
-[2020-05-05 20:49:11] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloud-us-east1.storage.googleapis.com' - Success.
-[2020-05-05 20:49:11] [AppID 7] Download OK for file serverbrowser_hist.vdf
-[2020-05-05 20:49:11] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-us-east1.storage.googleapis.com' beginning. . .
-[2020-05-05 20:49:11] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-us-east1.storage.googleapis.com' - Success.
-[2020-05-05 20:49:11] [AppID 7] Download OK for file sharedconfig.vdf
-[2020-05-05 20:49:11] [AppID 7] Download complete, result OK
-[2020-05-05 20:49:11] Starting sync job
-[2020-05-05 20:49:11] [AppID 7] Starting sync (eval,)
-[2020-05-05 20:49:11] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2020-05-05 20:49:11] [AppID 7] File is in sync sharedconfig.vdf
-[2020-05-05 20:49:11] [AppID 7] Eval complete
+[2021-03-29 09:14:04] [AppID 7] AutoCloud checking local state for user 59824344
+[2021-03-29 09:14:04] [U:1:59824344] [AppID 7] Init cache request complete
+[2021-03-29 09:14:04] Starting sync job
+[2021-03-29 09:14:04] [AppID 7] Starting sync (init,)
